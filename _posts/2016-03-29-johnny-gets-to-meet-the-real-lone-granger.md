@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Following the Moth-Eaten Camel Toe
-datePublished: '2016-03-29T13:16:35.689Z'
-dateModified: '2016-03-29T08:32:50.243Z'
+datePublished: '2016-03-29T14:37:37.190Z'
+dateModified: '2016-03-29T14:37:21.202Z'
 title: 'Johnny Gets to Meet the Real "Lone Granger"'
 author: []
 sourcePath: _posts/2016-03-29-johnny-gets-to-meet-the-real-lone-granger.md
@@ -25,4 +25,4 @@ _type: Article
 **Following the Moth-Eaten Camel Toe**
 
 Following stars is for pussies. Following pussies is for stars. Most of the time.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/352a8a8c-199c-49c6-8d78-47a491488d52.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6858fa3f2ffef6c7ac8748ec543fd2dd534f3dbf.jpg)
