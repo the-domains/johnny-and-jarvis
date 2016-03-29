@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Johnny and Jarvis]]></title>
+        <description><![CDATA[Johnny and Jarvis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 03:49:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oh Cunt Rare, Moanforair!]]></title>
+            <description><![CDATA[<article><h1>Oh Cunt Rare, Moanforair!</h1><p>Message for My Genius Brother (In-Law, so rather, it is my sister that may be deemed the genius).</p></article>]]></description>
+            <link>undefinedoh-cunt-rare-moanforair/index.html</link>
+            <guid isPermaLink="false">565542eb-5969-4b7d-a656-9c9e9d24fe2f</guid>
+            <pubDate>Tue, 29 Mar 2016 03:49:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
