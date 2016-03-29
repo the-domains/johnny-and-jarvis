@@ -1,7 +1,7 @@
 name: Johnny and Jarvis
 favicon: null
-layout_spectrum: 0.5230723202694207
-typography_spectrum: 0.10236920206807554
+layout_spectrum: 0.7481
+typography_spectrum: 0.15284
 title: 'Johnny Gets to Meet the Real "Lone Granger"'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ffffff'
     - '#00ffff'
     - '#a88d00'
-  brandStrength: 0.0625
-  lightness: 0.27892283047549427
-  saturation: 0.01583632198162377
-  rhythmicContrast: 0.3719978746958077
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
