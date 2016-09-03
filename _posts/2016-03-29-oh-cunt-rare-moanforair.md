@@ -3,21 +3,19 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Message for My Genius Brother (In-Law, so rather, it is my sister that may be deemed the genius).'
-datePublished: '2016-04-07T05:00:08.834Z'
-dateModified: '2016-04-07T04:59:58.427Z'
-title: 'Oh Cunt Rare, Moanforair!'
+description: >-
+  Message for My Genius Brother (In-Law, so rather, it is my sister that may be
+  deemed the genius).
+datePublished: '2016-08-31T21:34:28.822Z'
+dateModified: '2016-08-31T21:34:27.237Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-29-oh-cunt-rare-moanforair.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: true
 url: oh-cunt-rare-moanforair/index.html
 _type: Article
 
